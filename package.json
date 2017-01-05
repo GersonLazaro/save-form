@@ -1,0 +1,27 @@
+{
+  "name": "save-form",
+  "version": "0.1.0",
+  "description": "Guarda los datos ingresados por el usuario en formularios, manteniendolos a salvo de fallas en la red, recargas o reinicios",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GersonLazaro/save-form.git"
+  },
+  "keywords": [
+    "formulario"
+  ],
+  "author": "Gerson Lázaro <gersonlazaro@gersonlazaro.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/GersonLazaro/save-form/issues"
+  },
+  "homepage": "https://github.com/GersonLazaro/save-form#readme",
+  "devDependencies": {
+    "babel-preset-es2016": "^6.16.0",
+    "gulp": "^3.9.1",
+    "gulp-babel": "^6.1.2"
+  }
+}
